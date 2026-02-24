@@ -42,8 +42,6 @@ This project is developed as part of MCA Semester-2 academic work using the MERN
 
 ## 🏗️ Project Architecture
 
-## 🏗️ Project Architecture
-
 The application follows a standard MERN stack layered architecture:
 
 Client (Frontend) → API Layer → Server (Backend) → Database (MongoDB)
